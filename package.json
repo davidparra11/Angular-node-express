@@ -1,0 +1,26 @@
+{
+  "name": "angular-node-real-time",
+  "version": "0.0.0",
+  "description": "A sample Node.js app with Angular.js client to real time interaction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "body-parser":"1.15.0",
+    "path":"*"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rualuiscs/node-angular"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
